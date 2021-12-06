@@ -1,2 +1,2 @@
-# projet_1_SQL_model_compagny
+# Pojet_1_SQL_Model_Compagny
 Model company - Dashboarding
